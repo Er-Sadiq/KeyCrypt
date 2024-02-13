@@ -20,7 +20,6 @@ KeyCrypt is a versatile keylogging tool designed for educational purposes, provi
 
 ## Disclaimer 
 
-Disclaimer:
 - 🚫 KeyCrypt is intended for educational and research purposes only.
 - 🔒 The author accepts no liability for any misuse or unlawful use of this software.
 - 👨‍💻 Users are encouraged to adhere to ethical principles when using KeyCrypt.
