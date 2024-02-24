@@ -1,7 +1,7 @@
 
 # KeyCrypt🛡️🌿
 
-KeyCrypt is a versatile & a advance keylogging tool designed for educational purposes, providing users with insight into keyboard activities on Linux and Windows systems. With its lightweight design and seamless integration into system startup, KeyCrypt offers a convenient solution for monitoring keystrokes remotely.
+KeyCrypt is a versatile keylogging tool designed for educational purposes, providing users with insight into keyboard activities on Linux and Windows systems. With its lightweight design and seamless integration into system startup, KeyCrypt offers a convenient solution for monitoring keystrokes remotely.
 
 
 
