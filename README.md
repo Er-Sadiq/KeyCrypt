@@ -17,12 +17,6 @@ KeyCrypt is a versatile keylogging tool designed for educational purposes, provi
 
 - [@Er-Sadiq-Killedar](https://github.com/Er-Sadiq)
 
-
-## Preview :
-![photo_6248879968176159992_y](https://github.com/Er-Sadiq/KeyCrypt/assets/125464939/a167946e-30b6-4f3e-8d88-9c6fe36dd31f)
-
-
-
 ## Disclaimer 
 
 - 🚫 KeyCrypt is intended for educational and research purposes only.
